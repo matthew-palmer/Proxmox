@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/tteck/Proxmox/main/misc/build.func)
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+source <(curl -s https://raw.githubusercontent.com/matthew-palmer/Proxmox/main/misc/build.func)
+# Copyright (c) 2021-2024 matthew-palmer
+# Author: matthew-palmer (matthew-palmerster)
 # Co-Author: remz1337
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/matthew-palmer/Proxmox/raw/main/LICENSE
 
 function header_info {
 clear
@@ -68,4 +68,4 @@ build_container
 description
 
 msg_ok "Completed Successfully!\n"
-echo -e "https://github.com/tteck/Proxmox/discussions/3651"
+echo -e "https://github.com/matthew-palmer/Proxmox/discussions/3651"

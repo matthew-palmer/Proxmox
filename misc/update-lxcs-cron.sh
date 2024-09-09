@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 matthew-palmer
+# Author: matthew-palmer (matthew-palmerster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/matthew-palmer/Proxmox/raw/main/LICENSE
 
 echo -e "\n $(date)"
 excluded_containers=("$@")

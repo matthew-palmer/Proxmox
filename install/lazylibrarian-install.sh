@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck
+# Copyright (c) 2021-2024 matthew-palmer
+# Author: matthew-palmer
 # Co-Author: MountyMapleSyrup (MountyMapleSyrup)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/matthew-palmer/Proxmox/raw/main/LICENSE
 
 source /dev/stdin <<< "$FUNCTIONS_FILE_PATH"
 color

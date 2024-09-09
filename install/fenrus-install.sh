@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 matthew-palmer
+# Author: matthew-palmer (matthew-palmerster)
 # Co-Author: Scorpoon
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/matthew-palmer/Proxmox/raw/main/LICENSE
 # Source: https://github.com/revenz/Fenrus
 
 

@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-# Copyright (c) 2021-2024 tteck
-# Author: tteck (tteckster)
+# Copyright (c) 2021-2024 matthew-palmer
+# Author: matthew-palmer (matthew-palmerster)
 # License: MIT
-# https://github.com/tteck/Proxmox/raw/main/LICENSE
+# https://github.com/matthew-palmer/Proxmox/raw/main/LICENSE
 
 # Use to copy all data from a Zwavejs2MQTT LXC to a Z-wave JS UI LXC
 # run from the Proxmox Shell
@@ -127,4 +127,4 @@ info "Successfully Transferred Data."
 
 # Use to copy all data from a Zwavejs2MQTT LXC to a Z-wave JS UI LXC
 # run from the Proxmox Shell
-# bash -c "$(wget -qLO - https://raw.githubusercontent.com/tteck/Proxmox/main/misc/copy-data/zwavejs2mqtt-copy-data-zwavejsui.sh)"
+# bash -c "$(wget -qLO - https://raw.githubusercontent.com/matthew-palmer/Proxmox/main/misc/copy-data/zwavejs2mqtt-copy-data-zwavejsui.sh)"
